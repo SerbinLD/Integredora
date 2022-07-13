@@ -1,0 +1,20 @@
+.
+{
+    background-color: black;
+}
+label{
+    color:black;
+    font-size: 25px;
+}
+button{
+    background-color: rgb(42, 187, 42);
+    color: aliceblue;
+}
+input{
+    background-color: rgb(55, 192, 169);
+    border-radius: 5px;
+    margin-left: 7px;
+}
+.img-producto{
+    margin-left: 400px;
+}
